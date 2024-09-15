@@ -30,4 +30,11 @@ Escolher uma imagem para publicação em rede social e pedir ao Copilot fazer um
 
 Colocar os resultados na pasta de output.
 
+## Prompt
+
+- Imagens com Texto: Extraia o texto da imagem abaixo por favor
+- Imagem Bônus: Descreva a seguinte imagem para colocar em um texto alternativo de redes sociais que serve para pessoas com deficiência visual por favor
+
 ## Resultados
+
+Me impressionei com o resultado da imagem 1 e imagem bônus, o Copilot fez uma ótima descrição da imagem bônus e trouxe informações a mais na imagem 1. Porém, na imagem 2 ele não soube escrever o anúncio do mercado e na imagem 4 ficou faltando a descrição dos tópicos. Talvez o fator qualidade da imagem tenha interferido no resultado da imagem 4.
